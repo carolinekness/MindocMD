@@ -4,7 +4,7 @@ title: About Mindoc
 number: 010
 ---
 
-# 
+# About MinDoc
 
 This text contains standard material about SourceLab and its publications. It is determined by the editorial board and built into the template and it is not altered by authors:
 
