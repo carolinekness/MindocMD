@@ -4,9 +4,7 @@ title: About Mindoc
 number: 010
 ---
 
-# About Mindoc
-
-8.  **Launching Your Site**
+# **Launching Your Site**
 
 Once you are satisfied with the edits you made to the website, it is
 time to launch the site. Launching means that you release your edited
