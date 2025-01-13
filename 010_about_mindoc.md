@@ -4,22 +4,14 @@ title: About Mindoc
 number: 010
 ---
 
-# **Launching Your Site**
+# 
 
-Once you are satisfied with the edits you made to the website, it is
-time to launch the site. Launching means that you release your edited
-website onto the internet. You can find your website link in two places.
-The first way is under the Actions tab.
+This text contains standard material about SourceLab and its publications. It is determined by the editorial board and built into the template and it is not altered by authors:
 
-![](2024-06-12-14-34-14.png)
+Founded in 2015, [SourceLab](http://sourcelab.history.illinois.edu/) is a student-led digital humanities collective sponsored by the [Department of History at the University of Illinois](https://history.illinois.edu/) at Urbana-Champaign. It sponsors classes, public events, and digital experiments that explore the intersection between information technology and the future of the historical record.
 
-If you have a green check mark next to "pages build and deployment" it
-means that your code works, and your website is ready to be viewed.
-Click on "pages build and deployment". Click on the link under "deploy"
-and your website should open up in a new window.
+Membership is open to students, faculty, staff and the public at large. For more information about SourceLab and how you can get involved, please visit our [website](http://sourcelab.history.illinois.edu/).
 
-![](2024-06-12-14-34-29.png)
+This edition is part of our digital documentary edition series _SourceLab_, a scholarly, open-access digital documentary publication maintained by SourceLab. _SourceLab_ is managed by SourceLab’s Editorial Board, which conducts rigorous peer-review of every edition.
 
-The second way is under Settings à Pages.
-
-![](2024-06-12-14-34-41.png)
+This publication is licensed for free and unrestricted use in all settings under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
