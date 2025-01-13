@@ -7,9 +7,6 @@ number: 007
 # Building Your Website
 
 
-
-<!-- -->
-
 1.   **Configuring Your Website and Adding Content.** Now comes the
     work. How do you build your edition website? It all comes down to
     this: you'll be editing files and adding content, to make it reflect
