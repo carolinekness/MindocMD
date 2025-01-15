@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction
-number: 001
+number: 1
 ---
 
 # Introduction
