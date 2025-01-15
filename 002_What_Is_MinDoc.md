@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What Is MinDoc?
-number: 002
+number: 2
 ---
 
 # What Is MinDoc?
