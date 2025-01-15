@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Mindoc
-number: 010
+number: 10
 ---
 
 # About MinDoc
