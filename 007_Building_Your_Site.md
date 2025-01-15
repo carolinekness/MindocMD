@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Credits
-number: 007 
+number: 7 
 ---
 
 # Building Your Website
