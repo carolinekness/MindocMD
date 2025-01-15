@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to Build Your Site on GitHub
-number: 004
+number: 4
 ---
 
 # How to Build Your Site on GitHub
