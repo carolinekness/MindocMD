@@ -264,12 +264,6 @@ number: 7
 
 <!-- -->
 
--    *{% assign media = site.mindoc_media \| sort: \"order\" \|
-    where_exp: \"item\", \"item.page == \'source\'\" \| where_exp:
-    \"item\", \"item.media_type == \'image\'\" \|  where_exp: \"item\",
-    \"item.media_type == \'image\'\" %} {% include media.html
-    pages=media %}* 
-
 >      As we'll explain below, this is a snippet of code that tells
 > MinDoc to put an image or other media file on this page (that is,
 > something other than text).  While you're entering or editing your
