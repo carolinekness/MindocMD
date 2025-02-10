@@ -451,15 +451,7 @@ number: 7
     need to insert (and edit) this little bit of code on every page. 
     Copy this exactly (just select it and copy it):  
 
- 
-
-> {% assign **intro_images** = site.mindoc_media \| **sort:** \"order\"
-> \| **where_exp:** \"**item**\", **\"item.page** == \'introduction\'\"
-> \| **where_exp:** \"**item**\", \"**item**.**media_type** ==
-> \'image\'\" \|  **where_exp:** \"**item**\", \"**item**.**order** ==
-> \'02\'\" %} 
->
-> {% include media.html pages=**intro_images** %} 
+  
 
  
 
