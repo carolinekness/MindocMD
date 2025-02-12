@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Getting Started and First Concepts
-number: 3
+number: 2
 ---
 
 # Getting Started and First Concepts
