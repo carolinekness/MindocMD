@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Introduction
+title: Credits
 number: 1
 ---
 
-# Introduction
+# Credits
 
 MinDoc Manual: A Minimal Computing Template for Publishing Digital Documentary Editions of Primary Sources
 
