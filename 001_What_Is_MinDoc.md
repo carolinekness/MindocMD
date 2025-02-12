@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What Is MinDoc?
-number: 1
+number: 001
 ---
 
 - **What is MinDoc?**  [MinDoc](https://github.com/TonLeon/mindoc) is a digital documentary publishing template that anyone can use to create a high-quality digital edition of a historical source. MinDoc has been designed to meet the basic [standards for digital editions](https://www.documentaryediting.org/wordpress/?page_id=508) set by the [Association for Documentary Editing](https://www.documentaryediting.org/wordpress/), while also incorporating [minimal computing](http://digitalhumanities.org/dhq/vol/16/2/000646/000646.html) design principles. It requires only very basic computing resources, while at the same time teaching users some important coding skills. MinDoc was developed by researchers at [SourceLab](https://experts.illinois.edu/en/activities/sourcelab-journal), a digital humanities collective based at the [University of Illinois Urbana-Champaign](https://illinois.edu/). It is distributed freely for any use under an [MIT license](https://opensource.org/license/MIT/).
