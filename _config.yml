@@ -1,6 +1,6 @@
-title: Title
-email: your-email@example.com
-description: by Authors
+title: MinDoc 1.0 Documentation
+email: sourcelabuiuc@gmail.com
+description: by Liza Senatorova, Chris Goodwin, John Randolph, and Caroline Kness
 
 baseurl: "/MindocMD" # the subpath of your site. Change it if the name of your repository is other than "mindoc"
 
