@@ -6,35 +6,14 @@ number: 002
 
 # Getting Started and First Concepts
 
-<!-- -->
 
-1.  **What Counts as a Historical Document?** MinDoc publishes
-    historical documents.  But what counts as a historical document? In
-    theory, pretty much anything. Any artifact or object--whether it's a
-    text, a picture, film, a sound, a rock, a classroom chair with
-    initials carved in it--could tell someone something about the past
-    it came from. If you have something that you think can help people
-    understand history better, and you want to share it online, then
-    MinDoc can help you publish it. 
 
-<!-- -->
+1.  **What Counts as a Historical Document?** MinDoc publishes historical documents.  But what counts as a historical document? In theory, pretty much anything. Any artifact or object--whether it's atext, a picture, film, a sound, a rock, a classroom chair with
+    initials carved in it--could tell someone something about the past it came from. If you have something that you think can help people understand history better, and you want to share it online, then MinDoc can help you publish it. 
 
-2.  **What Makes This a 'Documentary Edition'?** An edition is a
-    presentation of something: a publication, something you put out into
-    the world (or in this case, online). A *documentary* edition
-    (sometimes called a historical edition) is publication that presents
-    an artifact (or artifacts) as it existed (or exists) in the world,
-    so that it can be used to explore the past. In other words, the goal
-    isn't to present the *best* version of something, or the one that is
-    somehow *truest* to someone's ideal version---it\'s not a revised
-    novel or a Director's Cut.  A documentary edition seeks to present
-    readers with a published version of an actual document as it is, so
-    they can use it as a source of information about a moment in time. 
-    People publish documents for a number of
-    [reasons](https://elaboratories.org/courses/why-edit/):
-    to help a history be more widely known or studied; to make it more
-    accessible; to enter it into the public record so it can be cited;
-    to preserve it.  The Association for Documentary Editing
+2.  **What Makes This a 'Documentary Edition'?** An edition is a presentation of something: a publication, something you put out into the world (or in this case, online). A *documentary* edition (sometimes called a historical edition) is publication that presents
+    an artifact (or artifacts) as it existed (or exists) in the world, so that it can be used to explore the past. In other words, the goal isn't to present the *best* version of something, or the one that is somehow *truest* to someone's ideal version---it's not a revised
+    novel or a Director's Cut.  A documentary edition seeks to present readers with a published version of an actual document as it is, so they can use it as a source of information about a moment in time. People publish documents for a number of [reasons](https://elaboratories.org/courses/why-edit/): to help a history be more widely known or studied; to make it more accessible; to enter it into the public record so it can be cited; to preserve it.  The Association for Documentary Editing
     [defines](https://www.documentaryediting.org/wordpress/?page_id=508)
     a digital documentary edition as an electronic publication of
     "primary source material prepared with 1) rigorous attention to the
@@ -42,7 +21,7 @@ number: 002
     editorial practices used on the texts." Our template is designed to
     help you create a documentary edition that meets these
     standards.
-<!-- -->
+
 
 3.  **How Do I Get a Digital Copy of My Source?** One thing you'll need
     is the ability to create a digital copy (file) of your source.
@@ -56,7 +35,7 @@ number: 002
     also 'digitization!').  We discuss this process in more detail
     below. 
 
-<!-- -->
+
 
 4.  **Do I Have to Worry About Copyright?** Yes. MinDoc can't solve
     copyright questions for you.  To determine whether you have the
@@ -71,7 +50,6 @@ number: 002
     [eLaboratories](https://elaboratories.org/courses/securing-permissions/)
     website. 
 
-<!-- -->
 
 5.  **What Else Should I Be Thinking About?** Just because we can
     publish things, doesn't mean that we should.  Questions of legal
@@ -84,11 +62,10 @@ number: 002
     copyright.  If you want some examples of things you might want to
     think about, here's a list.
 
-<!-- -->
 
-# **Researching Your Source** 
+## Researching Your Source
  
- MinDoc is a platform for publishing your document. But what do you need to know to present it to readers and viewers?  What kinds of information should you be prepared to offer about it, and what are some good kinds of questions to ask, in order to get there?  Libraries are full of information, as is the Internet.  But how should you plan your research about your source? Here are a few different approaches you might take, each with its own set of questions.  You can do them in any order, though we would suggest the following.
+MinDoc is a platform for publishing your document. But what do you need to know to present it to readers and viewers?  What kinds of information should you be prepared to offer about it, and what are some good kinds of questions to ask, in order to get there?  Libraries are full of information, as is the Internet.  But how should you plan your research about your source? Here are a few different approaches you might take, each with its own set of questions.  You can do them in any order, though we would suggest the following.
 
 1. **Read Your Source (and Study it as a Text)** It may seem obvious, but one place to start your research into your source is by reading it carefully.  If it's a text, do all the words make sense to you? Are any obscure? Do you understand what kind of text it is (what its genre is)? What purpose did it serve? What kind of information was it meant to provide? What other kinds of information do you see in it? Answering these questions for yourself will do a lot to help prepare you to answer them for potential readers.
 
@@ -104,11 +81,11 @@ number: 002
 
 7. **Organizing Your Thoughts Using the MinDoc Template** Okay, but how should you go about organizing your information?  By design, MinDoc is flexible, and you can edit your presentation to provide as much--or as little--of your own commentary as you like.  That said, MinDoc itself is a template that provides you with a guide for how to present your research.  By default, your edition has sections you can keep and use.  Each of them seeks to answer one or more of the questions people typically ask of editions (and editors) when looking at publications of historical sources.  By building out your edition on this template, you'll be encouraged to provide this critical information.  
     
-**Step by Step Description of the Template**
-        1. **Home Page**: Every edition opens with a Home Page.  This is an image (upload an image of your choice), a title (you need one!), and the names of any authors. This might include both the original author of a text you've edited for publication ("By John Randolph") and your own name as editor ("Edited by John Randolph").  Note: this information should match the information you provide in the YAML files of your edition (see above).
-        2. **Introduction**: This is the first written element of an edition: the first content readers encounter. The purpose of this introduction is to set the scene: to provide an initial description of the Source as well as an overview of the contents of the edition, highlighting its features and supplements. This is not a space for great detail about the Source, or your editorial work with it; later sections will allow you to do that. Here, your job is to help readers understand what they are looking at by establishing what it is and why it is interesting. The premium is on precise, no-nonsense prose, with a target length of no fewer than three and no more than six paragraphs. Suggested word count: 250–450 words
-        3. **The Source**: This page provides the main presentation of your source, as you have prepared it for readers (i.e., a facsimile, transcription, video, audio clip, etc.). This section is where we satisfy the first of the ADE’s three criteria for an electronic edition by providing a rigorous, accurate presentation of historical material. For the presentation of some sources, it may make sense to break up the presentation into multiple Scalar pages. Nonetheless, this page should be the page from which all presentations of the source itself start. This may also be a space where editorial annotations are provided, such as notes on provenance, archival location, transcription, and more. If possible, a link to the source’s permanent digital location should be included here as well as a citation for that location. This should be done in consultation with the instructors, editorial board, and peer reviewers. 
-        4. **About this Source**: This section contains a short biography or history of your source.This section represents the core of the contextual research we provide to satisfy the second of the ADE’s criteria for Electronic Editions. This section helps readers understand the context in which the source was made, and the kinds of historical topics and questions it illuminates. As outlined above, this biography of your source might answer questions like: How, when, and where was this artifact created? For what purpose? To what effect? Who used it, when, where, why? What sorts of histories and historical debates has it been used in? How might we use it in our explorations of the past today? Suggested word count: Up to 2000 words.
-        5. **About this Edition**: This section provides your statement of editorial principles (the philosophy behind the choices you made) and describes how you created the edition. It helps satisfy the last of the ADE’s three criteria for Electronic Editions, by providing an explanation of the editorial practices used in making the edition. It answers such questions as: What original artifacts were used in the making of your edition? Where may they be found today? What procedures and technologies did you use in making your presentation of this artifact? What are the advantages—and what are the limitations—of this approach? What kinds of alterations or emendations (if any) have you made? How are they noted? In short, this section contains your statement of the principles and ambitions that guided your creation of this edition. The prose should be clear, short, and to the point; there is no minimum word length.  We also recommend adding a citation guide here: how would you like other people to cite your work?
-        6. **Bibliography**: What books or other resources did you use in your work? Providing a list of references here will help your readers know if they can trust your work, and also help them do their own research.
+## Step by Step Description of the Template
+1. **Home Page**: Every edition opens with a Home Page.  This is an image (upload an image of your choice), a title (you need one!), and the names of any authors. This might include both the original author of a text you've edited for publication ("By John Randolph") and your own name as editor ("Edited by John Randolph").  Note: this information should match the information you provide in the YAML files of your edition (see above).
+2. **Introduction**: This is the first written element of an edition: the first content readers encounter. The purpose of this introduction is to set the scene: to provide an initial description of the Source as well as an overview of the contents of the edition, highlighting its features and supplements. This is not a space for great detail about the Source, or your editorial work with it; later sections will allow you to do that. Here, your job is to help readers understand what they are looking at by establishing what it is and why it is interesting. The premium is on precise, no-nonsense prose, with a target length of no fewer than three and no more than six paragraphs. Suggested word count: 250–450 words
+3. **The Source**: This page provides the main presentation of your source, as you have prepared it for readers (i.e., a facsimile, transcription, video, audio clip, etc.). This section is where we satisfy the first of the ADE’s three criteria for an electronic edition by providing a rigorous, accurate presentation of historical material. For the presentation of some sources, it may make sense to break up the presentation into multiple Scalar pages. Nonetheless, this page should be the page from which all presentations of the source itself start. This may also be a space where editorial annotations are provided, such as notes on provenance, archival location, transcription, and more. If possible, a link to the source’s permanent digital location should be included here as well as a citation for that location. This should be done in consultation with the instructors, editorial board, and peer reviewers. 
+4. **About this Source**: This section contains a short biography or history of your source.This section represents the core of the contextual research we provide to satisfy the second of the ADE’s criteria for Electronic Editions. This section helps readers understand the context in which the source was made, and the kinds of historical topics and questions it illuminates. As outlined above, this biography of your source might answer questions like: How, when, and where was this artifact created? For what purpose? To what effect? Who used it, when, where, why? What sorts of histories and historical debates has it been used in? How might we use it in our explorations of the past today? Suggested word count: Up to 2000 words.
+5. **About this Edition**: This section provides your statement of editorial principles (the philosophy behind the choices you made) and describes how you created the edition. It helps satisfy the last of the ADE’s three criteria for Electronic Editions, by providing an explanation of the editorial practices used in making the edition. It answers such questions as: What original artifacts were used in the making of your edition? Where may they be found today? What procedures and technologies did you use in making your presentation of this artifact? What are the advantages—and what are the limitations—of this approach? What kinds of alterations or emendations (if any) have you made? How are they noted? In short, this section contains your statement of the principles and ambitions that guided your creation of this edition. The prose should be clear, short, and to the point; there is no minimum word length.  We also recommend adding a citation guide here: how would you like other people to cite your work?
+6. **Bibliography**: What books or other resources did you use in your work? Providing a list of references here will help your readers know if they can trust your work, and also help them do their own research.
 
