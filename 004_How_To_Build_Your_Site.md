@@ -35,7 +35,7 @@ number: 4
 <!-- -->
 
 5.1.3.  **Create Your Own Repository**: Click on the big green button on the
-    top right of the screen: ![Alt text](image.png). It will provide you with two options.  Choose
+    top right of the screen: ![Alt text](usethistemplate.png). It will provide you with two options.  Choose
     "Create a New Repository."  
 
 
