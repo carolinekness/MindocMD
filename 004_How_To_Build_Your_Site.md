@@ -27,8 +27,8 @@ number: 4
 
 <!-- -->
 
-5.1.2.  **Go to the *[MinDoc
-    Repository]*](https://github.com/SourceLabUIUC/MinDoc)** 
+5.1.2.  **Go to the *MinDoc
+    Repository* (https://github.com/SourceLabUIUC/MinDoc)** 
     This is where you will find all the MinDoc files.  Don't worry about
     knowing what they all mean yet (we'll get to that). 
 
