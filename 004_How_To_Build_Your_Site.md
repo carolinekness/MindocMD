@@ -49,7 +49,7 @@ number: 4
     "Rename".) 
 
 
-   ![Alt text](image-2.png)
+
 
 <!-- -->
 
