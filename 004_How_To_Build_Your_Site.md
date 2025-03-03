@@ -67,6 +67,6 @@ number: 4
 
 5.1.7.  **Illustration of Preferences Screen:** 
 
- ![Alt text](image-1.png)
+
 
 [def]: 2024-06-11-14-02-17.png
