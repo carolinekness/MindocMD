@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bibliography
+title: Launching Your Site
 number: 6
 ---
 
