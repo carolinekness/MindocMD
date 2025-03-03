@@ -31,8 +31,7 @@ folder under the "Code" button at the top left hand of the screen. The
 name exactly (e.g., \'baseurl: \"/mindoc\"\' \--\> \'baseurl:
 \"/example\"\').
 
-![Alt text](image-3.png)
-![Alt text](image-4.png)
+
 
 6.1.3. Reload the Page. The link to your website will appear at the top
 of the same page. This may take several minutes, so don't worry if your
@@ -40,7 +39,6 @@ link isn't immediately generated.
 
 6.1.4. Example of Deployed Website with New URL
 
-![Alt text](image-5.png)
 
 6.1.5. Copy and Store Your New URL So You Have It Handy. Copy the link,
 then click on the 'Code' page (top left). Find the 'About' section (on
@@ -48,10 +46,7 @@ the right). Click on the Settings button, which is just to the right of
 "About" and looks like a gear. Then paste the URL (the website's
 address) in the "Website" line to always have it at hand.
 
-![Alt text](image-7.png)
-![Alt text](image-8.png)
-
 6.1.6. Click on Your New URL. It will bring up your site. Since you
 don't have any content in it yet, it should look like this.
 
-![Alt text](image-10.png)
+
