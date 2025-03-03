@@ -22,6 +22,6 @@ and your website should open up in a new window.
 
 
 
-The second way is under Settings à Pages.
+The second way is under Settings and Pages.
 
 
