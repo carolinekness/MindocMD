@@ -4,10 +4,10 @@ title: About Mindoc
 number: 10
 ---
 
-# About MinDoc
+About MinDoc
 
-This text contains standard material about SourceLab and its publications. It is determined by the editorial board and built into the template and it is not altered by authors:
 
+About SourceLab
 Founded in 2015, [SourceLab](http://sourcelab.history.illinois.edu/) is a student-led digital humanities collective sponsored by the [Department of History at the University of Illinois](https://history.illinois.edu/) at Urbana-Champaign. It sponsors classes, public events, and digital experiments that explore the intersection between information technology and the future of the historical record.
 
 Membership is open to students, faculty, staff and the public at large. For more information about SourceLab and how you can get involved, please visit our [website](http://sourcelab.history.illinois.edu/).
