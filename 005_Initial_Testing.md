@@ -4,20 +4,18 @@ title: Initial Testing of Your Site
 number: 5
 ---
 
-# Initial Testing of Your Site
-
 6. Initial Testing Your Site
 
-    6.1 Checking that Your Template Works. So your new copy of MinDoc
+    6.1 **Checking that Your Template Works** So your new copy of MinDoc
 already can be converted into a website, using GitHub's tools. It's just
 a blank website (for now), since you haven't added any content. Still,
 it makes sense to make sure you can deploy your site before you put more
 work into it. Here's how.
 
-    6.2 Go to the Settings Tab and Choose 'Pages'. It's in the top left
+    6.2 **Go to the Settings Tab and Choose 'Pages'** It's in the top left
 bar.
 
-    6.3 Set the Site to Deploy from Main Branch. See illustration below.
+    6.3 **Set the Site to Deploy from Main Branch** See illustration below.
 Click on the Save button. The \"branch" refers to your unique version of
 the MinDoc repository. The main branch is considered the most simple,
 stable, and deployable branch. By selecting the main branch, all your
@@ -31,19 +29,19 @@ folder under the "Code" button at the top left hand of the screen. The
 name exactly (e.g., \'baseurl: \"/mindoc\"\' \--\> \'baseurl:
 \"/example\"\').
 
-   6.4 Reload the Page. The link to your website will appear at the top
+   6.4 **Reload the Page** The link to your website will appear at the top
 of the same page. This may take several minutes, so don't worry if your
 link isn't immediately generated.
 
-   6.5 Example of Deployed Website with New URL
+   6.5 **Example of Deployed Website with New URL**
 
-   6.6 Copy and Store Your New URL So You Have It Handy. Copy the link,
+   6.6 **Copy and Store Your New URL So You Have It Handy** Copy the link,
 then click on the 'Code' page (top left). Find the 'About' section (on
 the right). Click on the Settings button, which is just to the right of
 "About" and looks like a gear. Then paste the URL (the website's
 address) in the "Website" line to always have it at hand.
 
-   6.7 Click on Your New URL. It will bring up your site. Since you
+   6.7 **Click on Your New URL** It will bring up your site. Since you
 don't have any content in it yet, it should look like this.
 
 
